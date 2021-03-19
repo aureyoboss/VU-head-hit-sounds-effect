@@ -1,0 +1,11 @@
+{
+  "Name": "HeadHitSoundsEffects",
+  "Authors": ["AureyoBoss"],
+  "Description": "Play some random sounds effects when hit the head !",
+  "Version": "1.0.0",
+  "HasVeniceEXT": true,
+  "HasWebUI": true,
+  "Dependencies": {
+    "veniceext": "^1.0.0"
+  }
+}
