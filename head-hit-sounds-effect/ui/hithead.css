@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "big_noodle_titling";
+  src: url("./big_noodle_titling.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "big_noodle_titling", "sans-serif";
+}
+
+#hithead {
+  position: fixed;
+  left: 50%;
+  bottom: 50%;
+}
+
+audio {
+  opacity: 0;
+  height: 1px;
+  width: 1px;
+}
